@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.ngplasticsurgery.in/sitemap.xml

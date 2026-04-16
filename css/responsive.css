@@ -1,0 +1,224 @@
+   @media(max-width:1200px) {
+       .header_wrapper .nav-item {
+           padding-left: 6px;
+       }
+   }
+
+   @media(max-width:1160px) {
+       .header_wrapper .nav-item {
+           padding-left: 2px;
+       }
+
+       .header_wrapper .navbar-nav .nav-link {
+           font-size: 16px;
+       }
+   }
+
+   @media (max-width: 1043px) {
+       .desktop-navbar {
+           display: none !important;
+       }
+
+       .mobile-navbar {
+           display: flex !important;
+       }
+   }
+
+   @media (min-width: 1044px) {
+       .desktop-navbar {
+           display: flex !important;
+       }
+
+       .mobile-navbar {
+           display: none !important;
+       }
+   }
+
+
+   @media(max-width:992px) {
+
+       /* == navbar start === */
+       .navbar_wrapper {
+           display: none;
+       }
+
+       .blog-details_wrapper .row {
+           flex-direction: column-reverse;
+       }
+
+       .explore_wrapper .explore-box {
+           border: 1px dashed var(--them-color);
+       }
+
+       .book_wrapper .row {
+           flex-direction: column-reverse;
+       }
+
+   }
+
+   @media(max-width:768px) {
+       .title {
+           font-size: 28px;
+       }
+
+       .blog-details_wrapper h1 {
+           font-size: 28px;
+       }
+
+       .blog-details_wrapper h2 {
+           font-size: 22px;
+       }
+
+       .blog-details_wrapper h3 {
+           font-size: 18px;
+       }
+
+       .banner_wrapper1 .banner-title {
+           font-size: 28px;
+       }
+
+
+
+       /* doctor-appoinment page  */
+       .banner_wrapper1 .doctor-main-img {
+           height: 500px;
+           padding-top: 150px;
+           padding-bottom: 160px;
+       }
+
+
+       @media (max-width: 768px) {
+           .blog-details_wrapper table {
+               display: block;
+               overflow-x: auto;
+               white-space: nowrap;
+               font-size: 12px;
+           }
+
+           .blog-details_wrapper table th,
+           .blog-details_wrapper table td {
+               padding: 10px 14px;
+           }
+       }
+   }
+
+   @media(max-width:624px) {
+       .banner_wrapper .main-banner-img img {
+           width: 300px;
+           height: 300px;
+       }
+
+       .main-faq-img img {
+           width: 320px;
+           height: 320px;
+       }
+
+       /* doctor-appoinment page  */
+       .banner_wrapper1 .doctor-main-img {
+           background-size: contain;
+           height: 500px;
+           padding-top: 150px;
+           padding-bottom: 160px;
+       }
+
+       .banner_wrapper1 .swiper-pagination {
+           margin-bottom: 62px !important;
+       }
+   }
+
+   @media(max-width:575px) {
+
+       /* doctor-appoinment page  */
+       .banner_wrapper1 .doctor-main-img {
+           background-size: contain;
+           height: 450px;
+           padding-top: 150px;
+           padding-bottom: 160px;
+       }
+
+       .banner_wrapper .banner-title {
+           padding-top: 80px;
+       }
+
+       .main-btn a,
+       .main-btn button {
+           width: 300px;
+       }
+
+
+       .banner_wrapper1 .swiper-pagination {
+           margin-bottom: 80px !important;
+       }
+
+       .treatment-section h1 {
+           font-size: 24px;
+       }
+
+       .service-section .services-main-img img {
+           width: 100%;
+           height: 100%;
+       }
+
+       .surgical-main_wrapper .surgical-main-img img {
+           width: 100%;
+           height: 100%;
+           object-fit: cover;
+           box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+           transition: all 0.5s ease;
+           cursor: pointer;
+       }
+
+   }
+
+   @media(max-width:475px) {
+       .banner_wrapper .banner-title {
+           font-size: 24px;
+       }
+
+       .subtitle {
+           font-size: 16px;
+       }
+
+       .title {
+           font-size: 22px;
+           line-height: 23px;
+       }
+
+       .banner_wrapper1 .banner-title {
+           font-size: 22px;
+       }
+
+       .blog-details_wrapper h1 {
+           font-size: 22px;
+           line-height: 23px;
+       }
+
+       .blog-details_wrapper h2 {
+           font-size: 18px;
+       }
+
+       .blog-details_wrapper h3 {
+           font-size: 16px;
+       }
+
+       .bredcram_wrapper .bredcarm-title {
+           font-size: 24px;
+       }
+
+       .main-faq-img img {
+           width: 280px;
+           height: 280px;
+       }
+
+       /* doctor-appoinment page  */
+       .banner_wrapper1 .doctor-main-img {
+           background-size: contain;
+           height: 400px;
+           padding-top: 150px;
+           padding-bottom: 160px;
+       }
+
+       .banner_wrapper1 .swiper-pagination {
+           margin-bottom: 100px !important;
+       }
+   }

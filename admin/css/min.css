@@ -1,0 +1,59 @@
+.mine-logo {
+  margin-bottom: 15px;
+}
+.rounded-circle {
+  border-radius: 0px !important;
+  width: 181px !important;
+  height: 160px !important;
+  object-fit: contain;
+  margin-bottom: 20px;
+}
+.dropdown-toggle img {
+  display: none;
+}
+
+/* .min-footer {
+  position: fixed;
+  width: 79%;
+  bottom: 18px;
+} */
+.min-bttom-footer {
+  position: sticky;
+  top: 625px !important;
+}
+
+@media (max-width: 575px) {
+  .sidebar {
+    position: fixed;
+    top: 49px !important;
+    left: 0;
+    bottom: 0;
+    width: 250px;
+    height: 100vh;
+    overflow-y: auto;
+    background: var(--light);
+    transition: 0.5s;
+    z-index: 999;
+  }
+}
+th.sorting {
+  color: #000 !important;
+}
+label {
+  display: inline-block;
+  color: #000 !important;
+}
+.table {
+  --bs-table-bg: rgba(0, 0, 0, 0);
+  --bs-table-striped-color: #757575;
+  --bs-table-striped-bg: rgba(0, 0, 0, 0.05);
+  --bs-table-active-color: #757575;
+  --bs-table-active-bg: rgba(0, 0, 0, 0.1);
+  --bs-table-hover-color: #757575;
+  --bs-table-hover-bg: rgba(0, 0, 0, 0.075);
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #000 !important;
+  vertical-align: top;
+  border-color: #dee2e6;
+}
