@@ -1,6 +1,6 @@
 <?php include('header-top.php'); ?>
  <head>
-      <title>Best Plastic Surgeon in Ahmedabad </title>
+      <title>Best Plastic Surgeon in Ahmedabad | NG Plastic Surgery</title>
       <meta name="description" content="Experience expert care at NG Plastic Surgery, where the best plastic surgeon in Ahmedabad offers advanced, precise procedures for natural, long-lasting results." />
       <!-- Open Graph Tags -->
       <meta property="og:locale" content="en_US" />
