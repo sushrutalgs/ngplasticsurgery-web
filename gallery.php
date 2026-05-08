@@ -1,5 +1,5 @@
 <?php include('header-top.php'); ?>
- <title>Before & After Plastic Surgery Results | Gallery</title>
+ <title>Before & After Plastic Surgery Result  Gallery</title>
       <meta name="description" content="Explore real patient transformations in our before-and-after gallery. Compare results and see what NG Plastic Surgery can achieve for you." />
       <!-- Open Graph Tags -->
       <meta property="og:locale" content="en_US" />
