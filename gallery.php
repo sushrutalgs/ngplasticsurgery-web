@@ -300,6 +300,24 @@
 
                     <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
                         <div class="about-gallery-img gallery-img">
+                            <a data-fancybox="gallery" data-caption=" Breast augmentation" href="image/gallery/ng-g01.jpeg">
+                                <img src="image/gallery/ng-g01.jpeg" alt="Breast augmentation">
+                                <p class="gallery-title">Breast augmentation</p>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                        <div class="about-gallery-img gallery-img">
+                            <a data-fancybox="gallery" data-caption=" Breast augmentation" href="image/gallery/ng-g02.jpeg">
+                                <img src="image/gallery/ng-g02.jpeg" alt="Breast augmentation">
+                                <p class="gallery-title">Breast Implant</p>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                        <div class="about-gallery-img gallery-img">
                             <a data-fancybox="gallery" data-caption=" Breast augmentation" href="image/gallery/breast1.png">
                                 <img src="image/gallery/breast1.png" alt="Breast augmentation">
                                 <p class="gallery-title">Breast augmentation</p>
