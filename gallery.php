@@ -80,6 +80,22 @@
 
                     <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
                         <div class="about-gallery-img gallery-img">
+                            <a data-fancybox="gallery" data-caption="ACNE Treatment" href="image/gallery/body-01.jpeg">
+                                <img src="image/gallery/body-01.jpeg" alt="Hair">
+                                <p class="gallery-title">ACNE Treatment</p>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                        <div class="about-gallery-img gallery-img">
+                            <a data-fancybox="gallery" data-caption="Hair Transplant" href="image/gallery/body-02.jpeg">
+                                <img src="image/gallery/body-02.jpeg" alt="Hair">
+                                <p class="gallery-title">Hair Transplant</p>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                        <div class="about-gallery-img gallery-img">
                             <a data-fancybox="gallery" data-caption="Hair" href="image/gallery/ng-h1.jpeg">
                                 <img src="image/gallery/ng-h1.jpeg" alt="Hair">
                                 <p class="gallery-title">Hair</p>
@@ -426,6 +442,14 @@
 
             <div class="tab-pane fade" id="Trauma-tab-pane" role="tabpanel" aria-labelledby="Trauma-tab" tabindex="0">
                 <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
+                        <div class="about-gallery-img gallery-img">
+                            <a data-fancybox="gallery" data-caption=" Trauma" href="image/gallery/trauma-01.jpeg">
+                                <img src="image/gallery/trauma-01.jpeg" alt="Trauma">
+                                <p class="gallery-title">Trauma</p>
+                            </a>
+                        </div>
+                    </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 mt-4">
                         <div class="about-gallery-img gallery-img">
                             <a data-fancybox="gallery" data-caption="Hand trauma" href="image/gallery/trauma1.jpeg">
