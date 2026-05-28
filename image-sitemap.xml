@@ -3,7 +3,7 @@
 		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
 	<loc>https://www.ngplasticsurgery.in/</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>1.0</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
@@ -84,16 +84,16 @@
 			<image:loc>https://www.ngplasticsurgery.in/image/testimonial-img.png</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1769509108.jpeg</image:loc>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1779343645.jpeg</image:loc>
 	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/icon/right-up.png</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1767247533.jpeg</image:loc>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1778577173.jpg</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1765956017.png</image:loc>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1777886066.jpeg</image:loc>
 	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
@@ -119,7 +119,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/about-ng-plastic-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>1.0</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/ab-main-img.webp</image:loc>
@@ -217,7 +217,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/about-dr-neel-gupta</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>1.0</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/gallery/n-gallery1.jpg</image:loc>
@@ -240,8 +240,14 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/gallery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/gallery/ng-h1.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/gallery/ng-h2.jpeg</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/gallery/body1.png</image:loc>
 	</image:image>
@@ -259,6 +265,15 @@
 	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/hair-tranplnts.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/gallery/ng-bo1.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/gallery/ng-bo2.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/gallery/ng-b1.jpeg</image:loc>
 	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/gallery/face1.png</image:loc>
@@ -292,6 +307,9 @@
 	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/gallery/ngplastic-5.JPG</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/gallery/ng-g1.jpeg</image:loc>
 	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/gallery/breast1.png</image:loc>
@@ -401,7 +419,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/faq</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>1.0</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/faq-img1.png</image:loc>
@@ -409,7 +427,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/surgical-procedure</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>1.0</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/Category_1756970853.jpeg</image:loc>
@@ -438,7 +456,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/category/body-treatment</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/service-img3.png_1757410353</image:loc>
@@ -464,7 +482,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/tummy-tuck</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Ideal%20Candidate%20for%20Tummy%20Tuck_1756991070.jpeg</image:loc>
@@ -478,7 +496,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/arm-lift-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/arm-lift-Surgery-1.png_1757753205</image:loc>
@@ -495,7 +513,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/thigh-lift-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/thigh-lift-Surgery1-1024x656.png_1757753620</image:loc>
@@ -509,7 +527,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/buttock-lift-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/buttock-lift-surgery-3.png_1757753993</image:loc>
@@ -523,7 +541,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/liposuction-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/liposuction-surgery-in-Ahmedabad-1.jpeg_1757754346</image:loc>
@@ -540,7 +558,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/fat-grafting-fat-transfer</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/fat-grafting-surgery-in-ahmedabad.png_1757754578</image:loc>
@@ -557,7 +575,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/post-bariatric-weight-loss-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Post-Bariatric-surgery-in-Ahmedabad-4-768x892.png_1757755131</image:loc>
@@ -565,7 +583,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/category/breast-treatment</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/Breast-Treatment-768x492.jpg_1757494941</image:loc>
@@ -579,7 +597,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/breast-augmentation-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/breast-augmentation-surgery-in-Ahmedabad-1.jpg_1757755396</image:loc>
@@ -593,7 +611,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/breast-lift-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/breast-lift-surgery-in-Ahmedabad-5.jpeg_1757755742</image:loc>
@@ -610,7 +628,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/breast-reduction-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/breast-reduction-Surgery-in-Ahmedabad.png_1757755990</image:loc>
@@ -627,7 +645,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/category/facial-aesthetics</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/Facial-Aesthetics-768x492.jpeg_1757496584</image:loc>
@@ -641,7 +659,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/dimple-creation-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/dimple-Surgery-in-Ahmedabad.png_1757756879</image:loc>
@@ -658,7 +676,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/cheek-fat-reduction-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/cheek-fat-reduction-Surgery-in-Ahmedabad.png_1757757172</image:loc>
@@ -675,7 +693,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/neck-face-brow-lift-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/neck-lift_Surgery-in-Ahmedabad.png_1757757470</image:loc>
@@ -692,7 +710,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/chin-implant-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Chin-Implant-Surgery-in-Ahmedabad.jpeg_1757758345</image:loc>
@@ -709,7 +727,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/nose-job-rhinoplasty-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/nose-job-Surgery-in-Ahmedabad.png_1757758588</image:loc>
@@ -726,7 +744,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/blepharoplasty-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/blepharoplasty-Surgery-in-Ahmedabad.png_1757758898</image:loc>
@@ -743,7 +761,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/ear-ear-lobe-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Ear-Surgery-in-Ahmedabad.png_1757759520</image:loc>
@@ -760,7 +778,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/category/male-aesthetics</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/images.jpeg_1757497256</image:loc>
@@ -774,7 +792,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/biceps-deltoid-triceps-enhancement-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/bicep-Surgery-in-Ahmedabad-1.jpg_1757760573</image:loc>
@@ -791,7 +809,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/calf-augmentation-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/calf-augmentation-Surgery-in-Ahmedabad%20(1).jpg_1757760915</image:loc>
@@ -808,7 +826,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/gynecomastia-man-boobs-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Gynecomastia-Surgery-in-Ahmedabad-768x520.png_1757761164</image:loc>
@@ -825,7 +843,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/abdominal-etching-six-pack-abs</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/six-pack-Surgery-in-Ahmedabad-.jpg_1757761394</image:loc>
@@ -842,7 +860,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/category/hair-treatment</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/man-going-through-follicular-unit-extraction-process_23-2149106296.jpg_1757499854</image:loc>
@@ -859,24 +877,27 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/hair-transplant-and-restoration-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/hair-restoration-Surgery-in-Ahmedabad-.png_1757759878</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Hair-Transplant-in-Ahmedabad-1.jpg_1757759878</image:loc>
+			<image:loc>https://www.ngplasticsurgery.in/ProductImages/01.jpg4.jpeg_1777443877</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Hair-Transplant-in-Ahmedabad-768x492.jpeg_1757759878</image:loc>
+			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Hair-Transplant-in-1.jpg_1777443877</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Hair-Transplant-in-Ahmedabad.jpg_1757759878</image:loc>
+			<image:loc>https://www.ngplasticsurgery.in/ProductImages/adult-male-getting-hair-loss-treatment1.jpg_1777443877</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Hair-Transplant-in-Ahmedabad.jpg_1777443877</image:loc>
 	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/prp-gfc-treatment-for-hair-loss-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/gfc-treatment.jpg_1757760130</image:loc>
@@ -896,7 +917,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/category/cosmetic-gynecology</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/front-view-doctor-holding-anatomic-model_23-2149351652.jpg_1757500498</image:loc>
@@ -910,7 +931,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/designer-vagina-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/designer-vagina.jpg_1757761691</image:loc>
@@ -924,7 +945,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/labiaplasty-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/LABIAPLASTY.jpg_1757762178</image:loc>
@@ -938,7 +959,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/vaginal-tightening-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/vaginal-tightening.jpg_1757762426</image:loc>
@@ -955,7 +976,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/g-shot-and-o-shot-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/o-shot.jpg_1757762780</image:loc>
@@ -975,7 +996,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/category/skin-treatment</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/female-patient-receiving-cosmetic-treatment_107420-65218.jpg_1757500958</image:loc>
@@ -989,7 +1010,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/scar-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/scar-Surgery-in-Ahmedabad-1-1.jpg_1757762908</image:loc>
@@ -997,7 +1018,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/mole-wart-cyst-lipoma-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/lipoma-Surgery-in-Ahmedabad-1.jpg_1757763061</image:loc>
@@ -1005,7 +1026,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/category/reconstructive-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/360_F_205899318_UeHQCSn3vAjW8gixGj1Ns9Rkb8CMpP09.jpg_1757501327</image:loc>
@@ -1019,7 +1040,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/head-and-neck-cancer-reconstruction-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/head-and-neck.jpg_1757763230</image:loc>
@@ -1027,7 +1048,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/breast-cancer-reconstruction-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/breast-cancer.jpg_1757763572</image:loc>
@@ -1038,7 +1059,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/vaginoplasty-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/vaginoplasty.jpg_1757763756</image:loc>
@@ -1046,7 +1067,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/burns-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/burn-surgery-in-ahmedabad-1.jpeg_1757763873</image:loc>
@@ -1054,7 +1075,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/non-surgical-procedure</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>1.0</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/non-surgical1758012678.png</image:loc>
@@ -1086,7 +1107,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/non-surgical-procedure/acne-scar-treatment</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/acne-and-acne-scar.jpg_1757501966</image:loc>
@@ -1097,7 +1118,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/non-surgical-procedure/botox</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/images%20(1).jpeg_1757502574</image:loc>
@@ -1117,7 +1138,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/non-surgical-procedure/dermal-fillers</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/close-up-woman-getting-lip-fillers_23-2149341847.jpg_1757502957</image:loc>
@@ -1137,7 +1158,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/non-surgical-procedure/skin-booster</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/young-woman-having-cosmetic-treatment-wellness-center_23-2148825310.jpg_1757503169</image:loc>
@@ -1148,7 +1169,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/non-surgical-procedure/laser-hair-removal</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/laser-epilation-hair-removal-therapy_1303-23661.jpg_1757505754</image:loc>
@@ -1165,7 +1186,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/non-surgical-procedure/melasma-pigmentation</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/me-1.jpg_1757509113</image:loc>
@@ -1182,7 +1203,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/non-surgical-procedure/hydrafacial</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/hydrafacial-Surgery-in-Ahmedabad.png_1757915526</image:loc>
@@ -1193,7 +1214,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/non-surgical-procedure/chemical-peel</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/chemical-peelSurgery-in-Ahmedabad.png_1757915761</image:loc>
@@ -1210,7 +1231,7 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/non-surgical-procedure/thread-lift</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/thread-lift-Surgery-in-Ahmedabad.png_1757915910</image:loc>
@@ -1221,8 +1242,23 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1773904814.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1773207420.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1769509108.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1767247533.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1765956017.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1762945244.jpg</image:loc>
 	</image:image>
@@ -1284,48 +1320,42 @@
 			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1757056346.jpeg</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1757049628.png</image:loc>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1773276690.jpeg</image:loc>
 	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/contact-us</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/gynecomastia-man-boods-surgery</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://www.ngplasticsurgery.in/blog/breast-implant-surgery-explained</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.ngplasticsurgery.in/blog/laser-hair-removal-guide-ahmedabad</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.ngplasticsurgery.in/blog/Breast-Surgeon-in-Ahmedabad</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.ngplasticsurgery.in/testimonial</loc>
-	<lastmod>2026-01-27T11:26:57+01:00</lastmod>
+	<loc>https://www.ngplasticsurgery.in/surgical-procedure.php</loc>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>1.0</priority>
-	<image:image>
-			<image:loc>https://www.ngplasticsurgery.in/image/icon/girl.svg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://www.ngplasticsurgery.in/image/icon/boy.svg</image:loc>
-	</image:image>
 </url>
 <url>
-	<loc>https://www.ngplasticsurgery.in/doctors-appoinment</loc>
-	<lastmod>2026-01-27T11:27:00+01:00</lastmod>
+	<loc>https://www.ngplasticsurgery.in/blog/hyperhidrosis-treatment-ahmedabad</loc>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.ngplasticsurgery.in/blog/mommy-makeover-in-ahmedabad</loc>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.ngplasticsurgery.in/blog/hair-transplant-cost-in-ahmedabad</loc>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.ngplasticsurgery.in/doctors-appoinment.php</loc>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
 	<priority>1.0</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/doctor-img1.jpg</image:loc>
@@ -1383,118 +1413,159 @@
 	</image:image>
 </url>
 <url>
+	<loc>https://www.ngplasticsurgery.in/testimonial</loc>
+	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/girl.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/boy.svg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://www.ngplasticsurgery.in/doctors-appoinment</loc>
+	<lastmod>2026-05-28T07:32:27+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.ngplasticsurgery.in/blog/chest-fat-gynecomastia-treatment</loc>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.ngplasticsurgery.in/blog/top-10-plastic-surgeons-ahmedabad-dr-neel-gupta</loc>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.ngplasticsurgery.in/blog/breast-implant-surgery-explained</loc>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.ngplasticsurgery.in/blog/laser-hair-removal-guide-ahmedabad</loc>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.ngplasticsurgery.in/blog/Breast-Surgeon-in-Ahmedabad</loc>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
 	<loc>https://www.ngplasticsurgery.in/blog/gynecomastia-surgery-in-ahmedabad-what-local-patients-should-know</loc>
-	<lastmod>2026-01-27T11:27:13+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/best-plastic-surgeon-ahmedabad-dr-neel-gupta</loc>
-	<lastmod>2026-01-27T11:27:13+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/gynecomastia-surgery-facts-and-myths-explained</loc>
-	<lastmod>2026-01-27T11:27:13+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/facts-and-myths-about-breast-implant-surgery</loc>
-	<lastmod>2026-01-27T11:27:13+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/know-more-about-breast-reduction-surgery</loc>
-	<lastmod>2026-01-27T11:27:13+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/breast-reduction-vs-breast-lift-which-procedure-is-right-for-you</loc>
-	<lastmod>2026-01-27T11:27:13+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/how-safe-is-plastic-surgery-today-breaking-down-the-facts</loc>
-	<lastmod>2026-01-27T11:27:13+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/thinking-about-plastic-surgery-key-considerations-before-going-under-the-knife</loc>
-	<lastmod>2026-01-27T11:27:13+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/the-most-popular-plastic-surgery-procedures-in-2025</loc>
-	<lastmod>2026-01-27T11:27:13+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/breast-reduction-surgery-a-complete-guide-to-procedure-benefits-and-recovery</loc>
-	<lastmod>2026-01-27T11:27:13+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/plastic-surgery-for-men-popular-procedures-benefits</loc>
-	<lastmod>2026-01-27T11:27:13+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/cost-of-laser-hair-removal-in-ahmedabad-a-complete-breakdown</loc>
-	<lastmod>2026-01-27T11:27:13+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/preventative-botox-in-your-20s-is-it-worth-it-ng-plastic-surgery-botox-treatment-in-ahmedabad</loc>
-	<lastmod>2026-01-27T11:27:13+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/best-exercises-for-gynecomastia-can-you-reduce-male-breasts-naturally</loc>
-	<lastmod>2026-01-27T11:27:13+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/plastic-surgery-for-women-over-40-best-procedures-for-anti-aging</loc>
-	<lastmod>2026-01-27T11:27:13+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/what-to-look-for-when-choosing-the-best-plastic-surgeon-in-ahmedabad</loc>
-	<lastmod>2026-01-27T11:27:13+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/hair-transplant-in-ahmedabad-complete-procedure-guide</loc>
-	<lastmod>2026-01-27T11:27:13+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/hair-transplant-recovery-timeline-week-by-week</loc>
-	<lastmod>2026-01-27T11:27:13+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/top-5-clinics-for-laser-hair-removal-in-ahmedabad-cost-comparison</loc>
-	<lastmod>2026-01-27T11:27:13+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/faqs-gynecomastia-surgery-ahmedabad</loc>
-	<lastmod>2026-01-27T11:27:13+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/how-many-grafts-do-you-need-understanding-hair-density-for-transplants</loc>
-	<lastmod>2026-01-27T11:27:13+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/blog</loc>
-	<lastmod>2026-01-27T11:27:14+01:00</lastmod>
+	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://www.ngplasticsurgery.in/blog-details</loc>
-	<lastmod>2026-01-27T11:27:34+01:00</lastmod>
+	<loc>https://www.ngplasticsurgery.in/blog-details.php</loc>
+	<lastmod>2026-05-28T07:32:44+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 </urlset>
