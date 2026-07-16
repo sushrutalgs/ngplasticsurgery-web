@@ -214,12 +214,12 @@
             <p class="subtitle">Welcome to NG Plastic Surgery!</p>
             <h1><p class="title">Transform Your Look with Best Plastic Surgeon in Ahmedabad</p></h1>
             <p class="about-text text-justify">They say beauty comes from within; that’s absolutely correct. But, won’t it be great if we can add more to our personality by presenting ourselves to society with utmost confidence?</p>
-            <p class="about-text text-justify">At NG Plastic Surgery, under the expert guidance of Dr. Neel Gupta, one of the best plastic surgeons in Ahmedabad, we help you achieve top-tier cosmetic transformations. We offer a range of advanced surgical procedures designed to enhance your natural beauty and boost your self-assurance. Start your journey toward a more confident you with us.</p>
+            <p class="about-text text-justify">At <strong>NG Plastic Surgery</strong>, under the expert guidance of <strong>Dr. Neel Gupta</strong>, one of the <strong>best plastic surgeons in Ahmedabad</strong>, we help you achieve top-tier cosmetic transformations. We offer a range of advanced surgical procedures designed to enhance your natural beauty and boost your self-assurance. Start your journey toward a more confident you with us.</p>
          </div>
       </div>
       <div class="main-treatment d-flex justify-content-center gap-3 flex-wrap mt-4">
          <div class="treatment-box">
-            <a href="#">
+            <a href="https://www.ngplasticsurgery.in/category/cosmetic-gynecology">
                <div class="treatment-content">
                   <img src="image/cosmetic-gynecology.jpeg" alt="Cosmetic Gynecology">
                   <h4>Cosmetic Gynecology</h4>
@@ -235,25 +235,25 @@
             </a>
          </div>
          <div class="treatment-box">
-            <a href="#">
+            <a href="https://www.ngplasticsurgery.in/category/breast-treatment">
                <div class="treatment-content">
-                  <img src="image/breast-treatment.png" alt="Cosmetic Gynecology">
+                  <img src="image/breast-treatment.png" alt="Breast Treatment">
                   <h4>Breast Treatment</h4>
                </div>
             </a>
          </div>
          <div class="treatment-box">
-            <a href="#">
+            <a href="https://www.ngplasticsurgery.in/category/hair-treatment">
                <div class="treatment-content">
-                  <img src="image/hair-transplant.png" alt="Cosmetic Gynecology">
+                  <img src="image/hair-transplant.png" alt="Hair Treatment">
                   <h4>Hair Transplant</h4>
                </div>
             </a>
          </div>
          <div class="treatment-box">
-            <a href="#">
+            <a href="https://www.ngplasticsurgery.in/product/liposuction-surgery">
                <div class="treatment-content">
-                  <img src="image/liposuction.jpg" alt="Cosmetic Gynecology">
+                  <img src="image/liposuction.jpg" alt="Liposuction Surgery">
                   <h4>Liposuction</h4>
                </div>
             </a>
@@ -299,9 +299,9 @@
          <div class="col-lg-6 col-md-12 col-sm-12 mt-4">
             <p class="subtitle">ABOUT Dr. neel gupta</p>
             <p class="title">Get up, close & personal with our Doc!</p>
-            <p class="about2-text text-justify">Dr. Neel Gupta, MS, DrNB (Plastic & Reconstructive Surgery), is a renowned plastic surgeon in Ahmedabad, dedicated to enhancing patient confidence and well-being. She believes that beauty is the reflection of one’s attitude, and, thus, encourages her patients to seek treatments that boost their confidence.</p>
-            <p class="about2-text text-justify">Her honesty towards serving her patients with the best solutions makes her the favourite amongst the city’s audience. She specializes in aesthetic and reconstructive surgery for adults and pediatric patients, and excels in microvascular surgeries for the head, neck, and breast.</p>
-            <p class="about2-text text-justify">Dr. Neel Gupta completed her plastic surgery training at Deenanath Mangeshkar Hospital, Pune, and fellowship in microvascular surgery at HCG Cancer Centre, Ahmedabad. With over 5 years of experience in the field, her precision, thoroughness, and empathy towards her patients have gained her great trust. She is now being recognized as the best plastic surgeon in the city.</p>
+            <p class="about2-text text-justify"><strong>Dr. Neel Gupta, MS, DrNB (Plastic & Reconstructive Surgery)</strong>, is a renowned <strong>plastic surgeon in Ahmedabad</strong>, dedicated to enhancing patient confidence and well-being. She believes that beauty is the reflection of one’s attitude, and, thus, encourages her patients to seek treatments that boost their confidence.</p>
+            <p class="about2-text text-justify">Her honesty towards serving her patients with the best solutions makes her the favourite amongst the city’s audience. She specializes in <strong>aesthetic and reconstructive surgery</strong> for adults and pediatric patients, and excels in microvascular surgeries for the head, neck, and breast.</p>
+            <p class="about2-text text-justify">Dr. Neel Gupta completed her plastic surgery training at Deenanath Mangeshkar Hospital, Pune, and fellowship in microvascular surgery at HCG Cancer Centre, Ahmedabad. <strong>With over 5 years of experience</strong> in the field, her precision, thoroughness, and empathy towards her patients have gained her great trust. She is now being recognized as the best plastic surgeon in the city.</p>
             <div class="main-btn">
                <a href="about-dr-neel-gupta.php">View Details</a>
             </div>
@@ -329,7 +329,7 @@
                <ul>
                   <li><a href="product/blepharoplasty-surgery">Eyelid Surgery</a></li>
                   <li><a href="product/dimple-creation-surgery">Dimple Creation</a></li>
-                  <li><a href="product/gynecomastia-man-boods-surgery">Gynecomastia</a></li>
+                  <li><a href="product/gynecomastia-man-boobs-surgery">Gynecomastia</a></li>
                   <li><a href="product/neck-face-brow-lift-surgery">Neck Lift</a></li>
                   <li><a href="product/nose-job-rhinoplasty-surgery">Rhinoplasty</a></li>
                </ul>
@@ -364,7 +364,7 @@
       <div class="row">
          <div class="col-12">
             <p class="title text-center">Why Choose Us</p>
-            <p class="text-center why-text">At NG Plastic Surgery, we offer you consultation and treatment by a team of skilled professionals who help you with personalized treatment plans using the state-of-the-art technology. The team works under the mentorship of Dr. Neel Gupta, a board-certified plastic surgeon in India who is rapidly gaining popularity amongst the best plastic surgeons in Ahmedabad.</p>
+            <p class="text-center why-text">At <strong>NG Plastic Surgery</strong>, we offer you consultation and treatment by a team of skilled professionals who help you with personalized treatment plans using the state-of-the-art technology. The team works under the mentorship of <strong>Dr. Neel Gupta</strong>, a board-<strong>certified plastic surgeon in India</strong> who is rapidly gaining popularity amongst the best plastic surgeons in Ahmedabad.</p>
          </div>
       </div>
       <div class="row justify-content-center">
