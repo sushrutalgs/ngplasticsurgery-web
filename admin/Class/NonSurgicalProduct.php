@@ -74,14 +74,14 @@ class NonSurgicalProduct
 		$productSlug = $this->Check_data($data['productSlug']);
 		$categoryId = !empty($data['categoryId'])?$data['categoryId']:'';
 		$description = $this->Check_data($data['description']);
-		$otherDescription = !empty($data['otherDescription'])?$data['otherDescription']:'';
+		$otherDescription = !empty($data['otherDescription'])? $this->Check_data($data['otherDescription']) :'';
 		
 		
 		$mainDescription = $this->Check_data($data['mainDescription']);
 		// $otherDescription = $this->Check_data($data['otherDescription']);
-		$titleTag = !empty($data['titleTag'])?$data['titleTag']:'';
-		$metaKeyword = !empty($data['metaKeyword'])?$data['metaKeyword']:'';
-		$metaDescription = !empty($data['metaDescription'])?$data['metaDescription']:'';
+		$titleTag = !empty($data['titleTag'])? $this->Check_data($data['titleTag']) :'';
+		$metaKeyword = !empty($data['metaKeyword'])? $this->Check_data($data['metaKeyword']) :'';
+		$metaDescription = !empty($data['metaDescription'])? $this->Check_data($data['metaDescription']) :'';
 		$otherDescription= $this->Check_data($otherDescription);
 		
 		$Schema = !empty($data['Schema'])?$data['Schema']:'';
