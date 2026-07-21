@@ -125,18 +125,18 @@
     }      
    ?>
 <title><?php echo trim(stripslashes($product_data['title_tag']));?></title>
-<meta name="description" content="<?php echo $product_data['meta_description']; ?>" />
-<meta name="keywords" content="<?php echo $product_data['meta_keyword']; ?>" />
+<meta name="description" content="<?php echo stripslashes($product_data['meta_description']); ?>" />
+<meta name="keywords" content="<?php echo stripslashes($product_data['meta_keyword']); ?>" />
 <meta property="og:locale" content="en_US"/>
 <meta property="og:type" content="website" />
-<meta property="og:title" content="<?php echo $product_data['title_tag']; ?>" />
-<meta property="og:description" content="<?php echo $product_data['meta_description']; ?>" />
+<meta property="og:title" content="<?php echo stripslashes($product_data['title_tag']); ?>" />
+<meta property="og:description" content="<?php echo stripslashes($product_data['meta_description']); ?>" />
 <meta property="og:url" content="<?php echo Site_Url."product/".$product_data['product_slug']; ?>" />
 <meta property="og:site_name" content="<?php echo Company_Name;?>" />
 <!-- <meta property="og:image" content="<?php echo $imgfileSource; ?>" /> -->
-<meta name="twitter:title" content="<?php echo $product_data['title_tag']; ?>" />
+<meta name="twitter:title" content="<?php echo stripslashes($product_data['title_tag']); ?>" />
 <meta name="twitter:url" content="<?php echo Site_Url."product/".$product_data['product_slug']; ?>" />
-<meta name="twitter:description" content="<?php echo $product_data['meta_description']; ?>" />
+<meta name="twitter:description" content="<?php echo stripslashes($product_data['meta_description']); ?>" />
 <!-- <meta name="twitter:image" content="<?php echo $imgfileSource; ?>" /> -->
 <meta name="twitter:image:alt" content="<?php echo $product_data['image_alt']; ?>" />
 <link rel="canonical" href="<?php echo Site_Url."product/".$product_data['product_slug']; ?>" />
@@ -145,13 +145,13 @@
 <meta name="twitter:site" content="@<?php echo Company_Name;?>" />
 <meta name="twitter:creator" content="@<?php echo Company_Name;?>" />
 <?php
-echo "\n".html_entity_decode($product_data['schema_content'])."\n";
+echo "\n".html_entity_decode(stripslashes($product_data['schema_content']))."\n";
 include('header.php'); ?>
 <section class="bredcram_wrapper" style="background-image: url('<?php echo $imgfileSource; ?>');">
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h1 class="bredcarm-title"><?php echo trim(stripslashes($product_data['product_name']));?></h1>
+                <label class="bredcarm-title"><?php echo trim(stripslashes($product_data['product_name']));?></label>
                 <ul>
                     <li class="active"><a href="<?php echo Site_Url; ?>">Home</a></li>
                     <li>/</li>
