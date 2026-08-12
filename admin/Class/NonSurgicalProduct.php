@@ -84,7 +84,7 @@ class NonSurgicalProduct
 		$metaDescription = !empty($data['metaDescription'])? $this->Check_data($data['metaDescription']) :'';
 		$otherDescription= $this->Check_data($otherDescription);
 		
-		$Schema = !empty($data['Schema'])?$data['Schema']:'';
+		$Schema = !empty($data['Schema'])? $this->Check_data($data['Schema']):'';
 		
 
 		if(!empty($edit_id))
