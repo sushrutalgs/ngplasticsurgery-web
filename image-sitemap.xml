@@ -3,7 +3,7 @@
 		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
 	<loc>https://www.ngplasticsurgery.in/</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>1.0</priority>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
@@ -84,16 +84,16 @@
 			<image:loc>https://www.ngplasticsurgery.in/image/testimonial-img.png</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1779343645.jpeg</image:loc>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
 	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/icon/right-up.png</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1778577173.jpg</image:loc>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
 	</image:image>
 	<image:image>
-			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1777886066.jpeg</image:loc>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
 	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
@@ -119,8 +119,11 @@
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/about-ng-plastic-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/ab-main-img.webp</image:loc>
 	</image:image>
@@ -214,11 +217,38 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/gallery/g-24.png</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/about-dr-neel-gupta</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/neel-gupta.webp</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/gallery/n-gallery1.jpg</image:loc>
 	</image:image>
@@ -237,11 +267,59 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/gallery/n-gallery6.png</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/logo/apollo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/logo/iaaps.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/logo/sal.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/logo/steraling-hospitals.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/logo/surgeons-in-india.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/logo/vims.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/gallery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/gallery/body-01.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/gallery/body-02.jpeg</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/gallery/ng-h1.jpeg</image:loc>
 	</image:image>
@@ -312,6 +390,12 @@
 			<image:loc>https://www.ngplasticsurgery.in/image/gallery/ng-g1.jpeg</image:loc>
 	</image:image>
 	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/gallery/ng-g01.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/gallery/ng-g02.jpeg</image:loc>
+	</image:image>
+	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/gallery/breast1.png</image:loc>
 	</image:image>
 	<image:image>
@@ -346,6 +430,9 @@
 	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/breast-recunt.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/gallery/trauma-01.jpeg</image:loc>
 	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/gallery/trauma1.jpeg</image:loc>
@@ -416,19 +503,67 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/gallery/clinic14.png</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/faq</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>1.0</priority>
 	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/faq-img1.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
 	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/surgical-procedure</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/Category_1756970853.jpeg</image:loc>
 	</image:image>
@@ -453,11 +588,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/Category_1757509408.jpeg</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/category/body-treatment</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/service-img3.png_1757410353</image:loc>
 	</image:image>
@@ -479,11 +638,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/services-form-img.jpeg</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/tummy-tuck</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Ideal%20Candidate%20for%20Tummy%20Tuck_1756991070.jpeg</image:loc>
 	</image:image>
@@ -493,11 +676,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Benefits%20of%20Tummy%20Tuck_1756991070.png</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/arm-lift-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/arm-lift-Surgery-1.png_1757753205</image:loc>
 	</image:image>
@@ -510,11 +717,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/arm-lift-surgery-3.jpg_1757753205</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/thigh-lift-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/thigh-lift-Surgery1-1024x656.png_1757753620</image:loc>
 	</image:image>
@@ -524,11 +755,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/thigh-lift-surgery-2-1024x656.png_1757753620</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/buttock-lift-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/buttock-lift-surgery-3.png_1757753993</image:loc>
 	</image:image>
@@ -538,11 +793,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/buttock-lift-surgery-2.png_1757754030</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/liposuction-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/liposuction-surgery-in-Ahmedabad-1.jpeg_1757754346</image:loc>
 	</image:image>
@@ -555,11 +834,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/liposuction-surgery-3.png_1757754346</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/fat-grafting-fat-transfer</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/fat-grafting-surgery-in-ahmedabad.png_1757754578</image:loc>
 	</image:image>
@@ -572,19 +875,67 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/ultrasonicliposuctioneffects-whattoexpect.jpg_1757754830</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/post-bariatric-weight-loss-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Post-Bariatric-surgery-in-Ahmedabad-4-768x892.png_1757755131</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
 	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/category/breast-treatment</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/Breast-Treatment-768x492.jpg_1757494941</image:loc>
 	</image:image>
@@ -594,11 +945,50 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/close-up-hands-holding-breast-implants_23-2149103596.jpg_1757495627</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/reasons-img.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/positive-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/team-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/technology-icon1.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/services-form-img.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/breast-augmentation-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/breast-augmentation-surgery-in-Ahmedabad-1.jpg_1757755396</image:loc>
 	</image:image>
@@ -608,11 +998,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/breast-augmentation-surgery-in-Ahmedabad-3.jpg_1757755396</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/breast-lift-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/breast-lift-surgery-in-Ahmedabad-5.jpeg_1757755742</image:loc>
 	</image:image>
@@ -625,11 +1039,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Breast-Lift-Surgery-in-ahmedabad-4.jpeg_1757755742</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/breast-reduction-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/breast-reduction-Surgery-in-Ahmedabad.png_1757755990</image:loc>
 	</image:image>
@@ -642,11 +1080,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/breast-reduction-surgery-in-Ahmedabad.jpg_1757755990</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/category/facial-aesthetics</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/Facial-Aesthetics-768x492.jpeg_1757496584</image:loc>
 	</image:image>
@@ -656,11 +1118,50 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/young-woman-lying-cosmetologist-s-table-rejuvenation-procedure_343596-63.jpg_1757496584</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/reasons-img.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/positive-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/team-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/technology-icon1.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/services-form-img.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/dimple-creation-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/dimple-Surgery-in-Ahmedabad.png_1757756879</image:loc>
 	</image:image>
@@ -673,11 +1174,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Dimple-Creation-surgery-in-Ahmedabad.jpeg_1757756879</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/cheek-fat-reduction-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/cheek-fat-reduction-Surgery-in-Ahmedabad.png_1757757172</image:loc>
 	</image:image>
@@ -690,11 +1215,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/cheek-fat-reduction-in-Ahmedabad-1.jpg_1757757172</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/neck-face-brow-lift-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/neck-lift_Surgery-in-Ahmedabad.png_1757757470</image:loc>
 	</image:image>
@@ -707,11 +1256,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Face-Lift-surgery-in-Ahmedabad-5.jpeg_1757757471</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/chin-implant-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Chin-Implant-Surgery-in-Ahmedabad.jpeg_1757758345</image:loc>
 	</image:image>
@@ -724,11 +1297,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Chin-Implant-Surgery-in-ahmedabad-1.jpeg_1757758345</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/nose-job-rhinoplasty-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/nose-job-Surgery-in-Ahmedabad.png_1757758588</image:loc>
 	</image:image>
@@ -741,11 +1338,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Rhinoplasty-Surgery-in-Ahmedabad-1.jpg_1757758588</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/blepharoplasty-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/blepharoplasty-Surgery-in-Ahmedabad.png_1757758898</image:loc>
 	</image:image>
@@ -758,11 +1379,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Blepharoplasty-Surgery-in-ahmedabad.jpeg_1757758898</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/ear-ear-lobe-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Ear-Surgery-in-Ahmedabad.png_1757759520</image:loc>
 	</image:image>
@@ -775,11 +1420,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Ear-Lobe-Surgery-in-ahmedabad-2.jpg_1757759520</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/category/male-aesthetics</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/images.jpeg_1757497256</image:loc>
 	</image:image>
@@ -789,11 +1458,50 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/close-up-handsome-healthy-young-man-enjoying-relaxing-facial-massage-beauty-salon_360066-2095.jpg_1757497256</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/reasons-img.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/positive-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/team-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/technology-icon1.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/services-form-img.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/biceps-deltoid-triceps-enhancement-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/bicep-Surgery-in-Ahmedabad-1.jpg_1757760573</image:loc>
 	</image:image>
@@ -806,11 +1514,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/bicep3.jpg_1757760573</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/calf-augmentation-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/calf-augmentation-Surgery-in-Ahmedabad%20(1).jpg_1757760915</image:loc>
 	</image:image>
@@ -823,11 +1555,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/hugogarcia-5318-1586971182.jpg_1757760915</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/gynecomastia-man-boobs-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Gynecomastia-Surgery-in-Ahmedabad-768x520.png_1757761164</image:loc>
 	</image:image>
@@ -840,11 +1596,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Gynecomastia-After-Surgery-768x520.png_1757761165</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/abdominal-etching-six-pack-abs</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/six-pack-Surgery-in-Ahmedabad-.jpg_1757761394</image:loc>
 	</image:image>
@@ -857,11 +1637,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/six-pack2.jpg_1757761394</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/category/hair-treatment</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/man-going-through-follicular-unit-extraction-process_23-2149106296.jpg_1757499854</image:loc>
 	</image:image>
@@ -874,11 +1678,50 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/close-up-woman-using-syringe_23-2149311377.jpg_1757499942</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/reasons-img.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/positive-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/team-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/technology-icon1.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/services-form-img.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
-	<loc>https://www.ngplasticsurgery.in/product/hair-transplant-and-restoration-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<loc>https://www.ngplasticsurgery.in/product/hair-transplant-surgery-in-ahmedabad</loc>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/hair-restoration-Surgery-in-Ahmedabad-.png_1757759878</image:loc>
 	</image:image>
@@ -894,11 +1737,38 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Hair-Transplant-in-Ahmedabad.jpg_1777443877</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Hair%20Consultation.jpg_1782386056</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/prp-gfc-treatment-for-hair-loss-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/gfc-treatment.jpg_1757760130</image:loc>
 	</image:image>
@@ -914,11 +1784,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/gfc-treatment3.jpg_1757760303</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/category/cosmetic-gynecology</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/front-view-doctor-holding-anatomic-model_23-2149351652.jpg_1757500498</image:loc>
 	</image:image>
@@ -928,11 +1822,50 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/nice-gynecologist-examining-female-patient-clinic_651396-3104.jpg_1757500498</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/reasons-img.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/positive-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/team-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/technology-icon1.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/services-form-img.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/designer-vagina-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/designer-vagina.jpg_1757761691</image:loc>
 	</image:image>
@@ -942,11 +1875,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/woman-holding-mango-front-view_23-2149971002.jpg_1757761691</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/labiaplasty-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/LABIAPLASTY.jpg_1757762178</image:loc>
 	</image:image>
@@ -956,11 +1913,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/Labioplasty-In-Hyderabad-1024x683-1.webp_1757762178</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/vaginal-tightening-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/vaginal-tightening.jpg_1757762426</image:loc>
 	</image:image>
@@ -973,11 +1954,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/front-view-woman-with-beautiful-flower_23-2149893932.jpg_1757762426</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/g-shot-and-o-shot-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/o-shot.jpg_1757762780</image:loc>
 	</image:image>
@@ -993,11 +1998,35 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/vaginoplasty-postoperative-period-and-revision-surgery-263.jpg_1757762780</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/category/skin-treatment</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/female-patient-receiving-cosmetic-treatment_107420-65218.jpg_1757500958</image:loc>
 	</image:image>
@@ -1007,27 +2036,114 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/cosmetology-doctor-patien_624325-1648%20(1).jpg_1757500958</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/reasons-img.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/positive-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/team-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/technology-icon1.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/services-form-img.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/scar-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/scar-Surgery-in-Ahmedabad-1-1.jpg_1757762908</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
 	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/mole-wart-cyst-lipoma-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/lipoma-Surgery-in-Ahmedabad-1.jpg_1757763061</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
 	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/category/reconstructive-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/360_F_205899318_UeHQCSn3vAjW8gixGj1Ns9Rkb8CMpP09.jpg_1757501327</image:loc>
 	</image:image>
@@ -1037,46 +2153,181 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/woman-preparing-cosmetic-surgery_23-2150879677.jpg_1757501327</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/reasons-img.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/positive-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/team-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/technology-icon1.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/services-form-img.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/head-and-neck-cancer-reconstruction-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/head-and-neck.jpg_1757763230</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
 	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/breast-cancer-reconstruction-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/breast-cancer.jpg_1757763572</image:loc>
 	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/midsection-woman-with-pink-hair-against-white-background_1048944-11800538.jpg_1757763572</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/vaginoplasty-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/vaginoplasty.jpg_1757763756</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
 	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/product/burns-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
 	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/ProductImages/burn-surgery-in-ahmedabad-1.jpeg_1757763873</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
 	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/non-surgical-procedure</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/non-surgical1758012678.png</image:loc>
 	</image:image>
@@ -1104,22 +2355,85 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/non-surgical1758012453.png</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/non-surgical-procedure/acne-scar-treatment</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/acne-and-acne-scar.jpg_1757501966</image:loc>
 	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/sponge-application-mask-face-with-problem-skin_97875-564.jpg_1757501966</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/reasons-img.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/positive-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/team-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/technology-icon1.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/services-form-img.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/non-surgical-procedure/botox</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/images%20(1).jpeg_1757502574</image:loc>
 	</image:image>
@@ -1135,11 +2449,50 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/images%20(2).jpeg_1757502574</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/reasons-img.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/positive-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/team-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/technology-icon1.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/services-form-img.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/non-surgical-procedure/dermal-fillers</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/close-up-woman-getting-lip-fillers_23-2149341847.jpg_1757502957</image:loc>
 	</image:image>
@@ -1155,22 +2508,100 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/skincare-cosmetology-procedure-pretty-woman-hospital-rejuvenation-injecting-professional-therapy-healthcare-plastic-botox-beauty_197531-2791.jpg_1757502957</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/reasons-img.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/positive-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/team-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/technology-icon1.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/services-form-img.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/non-surgical-procedure/skin-booster</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/young-woman-having-cosmetic-treatment-wellness-center_23-2148825310.jpg_1757503169</image:loc>
 	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/high-angle-woman-getting-face-prp-treatment_23-2149404703.jpg_1757503169</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/reasons-img.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/positive-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/team-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/technology-icon1.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/services-form-img.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/non-surgical-procedure/laser-hair-removal</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/laser-epilation-hair-removal-therapy_1303-23661.jpg_1757505754</image:loc>
 	</image:image>
@@ -1183,11 +2614,50 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/istockphoto-501419806-612x612.jpg_1757505754</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/reasons-img.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/positive-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/team-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/technology-icon1.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/services-form-img.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/non-surgical-procedure/melasma-pigmentation</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/me-1.jpg_1757509113</image:loc>
 	</image:image>
@@ -1200,22 +2670,100 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/m-4.png_1757509113</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/reasons-img.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/positive-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/team-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/technology-icon1.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/services-form-img.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/non-surgical-procedure/hydrafacial</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/hydrafacial-Surgery-in-Ahmedabad.png_1757915526</image:loc>
 	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/hydrafacial-Surgery-in-Ahmedabad2.png_1757915526</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/reasons-img.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/positive-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/team-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/technology-icon1.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/services-form-img.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/non-surgical-procedure/chemical-peel</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/chemical-peelSurgery-in-Ahmedabad.png_1757915761</image:loc>
 	</image:image>
@@ -1228,22 +2776,133 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/chemical-peelSurgery-in-Ahmedabad2.png_1757915761</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/reasons-img.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/positive-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/team-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/technology-icon1.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/services-form-img.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/non-surgical-procedure/thread-lift</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/thread-lift-Surgery-in-Ahmedabad.png_1757915910</image:loc>
 	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/NonProductImages/thread-lift-Surgery-in-Ahmedabad2.png_1757915910</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/reasons-img.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/positive-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/team-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/technology-icon1.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/services-form-img.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/right-up.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1782895753.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1781162772.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1779343645.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1778577173.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1777886066.jpeg</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1773904814.jpeg</image:loc>
 	</image:image>
@@ -1322,46 +2981,293 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1773276690.jpeg</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/contact-us</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://www.ngplasticsurgery.in/product/gynecomastia-man-boods-surgery</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
-	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/surgical-procedure.php</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/Category_1756970853.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/Category_1757509230.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/Category_1757509264.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/Category_1757509293.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/Category_1757509326.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/Category_1757509355.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/Category_1757509384.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/CategoryImages/Category_1757509408.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
-	<loc>https://www.ngplasticsurgery.in/blog/hyperhidrosis-treatment-ahmedabad</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<loc>https://www.ngplasticsurgery.in/blog/rhinoplasty-nose-job-in-ahmedabad-cost-recovery</loc>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
-	<loc>https://www.ngplasticsurgery.in/blog/mommy-makeover-in-ahmedabad</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<loc>https://www.ngplasticsurgery.in/blog/hydrafacial-vs-regular-facial</loc>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
-	<loc>https://www.ngplasticsurgery.in/blog/hair-transplant-cost-in-ahmedabad</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<loc>https://www.ngplasticsurgery.in/blog/liposuction-vs-tummy-tuck</loc>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/doctors-appoinment.php</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/cosmetic-gynecology.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/mommy-makeover.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/breast-treatment.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/hair-transplant.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/liposuction.jpg</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/doctor-img1.jpg</image:loc>
 	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/doctor-img2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/safe.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/professional-1.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/private.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/technology.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/state.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/best.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/neel-gupta.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/logo/apollo.png</image:loc>
 	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/logo/cytecare.png</image:loc>
@@ -1403,7 +3309,13 @@
 			<image:loc>https://www.ngplasticsurgery.in/image/icon/aesthetics-icon.svg</image:loc>
 	</image:image>
 	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/testi-icon.png</image:loc>
+	</image:image>
+	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/blog-img1.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/right-up.png</image:loc>
 	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/blog-img2.png</image:loc>
@@ -1411,161 +3323,1734 @@
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/blog-img3.png</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/testimonial</loc>
-	<lastmod>2026-05-28T07:32:23+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:30+01:00</lastmod>
 	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/icon/girl.svg</image:loc>
 	</image:image>
 	<image:image>
 			<image:loc>https://www.ngplasticsurgery.in/image/icon/boy.svg</image:loc>
 	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/doctors-appoinment</loc>
-	<lastmod>2026-05-28T07:32:27+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:33+01:00</lastmod>
 	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/cosmetic-gynecology.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/mommy-makeover.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/breast-treatment.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/hair-transplant.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/liposuction.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/doctor-img1.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/doctor-img2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/safe.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/professional-1.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/private.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/technology.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/state.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/best.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/neel-gupta.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/logo/apollo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/logo/cytecare.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/logo/indian.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/logo/as.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/logo/columbia.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/logo/astercmil.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/logo/iasps.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/logo/cavalier.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/body-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/breast-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/hair-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/gynecology-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/surgery-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/aesthetics-icon.svg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/testi-icon.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/blog-img1.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/right-up.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/blog-img2.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/blog-img3.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://www.ngplasticsurgery.in/blog/hair-transplant-ahmedabad-guide</loc>
+	<lastmod>2026-10-12T14:46:43+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1781162772.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://www.ngplasticsurgery.in/blog/breast-implant-cost-ahmedabad</loc>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://www.ngplasticsurgery.in/blog/gynecomastia-surgery-in-ahmedabad</loc>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://www.ngplasticsurgery.in/blog/laser-hair-removal-in-ahmedabad</loc>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1782895753.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://www.ngplasticsurgery.in/blog/hyperhidrosis-treatment-ahmedabad</loc>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1779343645.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://www.ngplasticsurgery.in/blog/mommy-makeover-in-ahmedabad</loc>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1778577173.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://www.ngplasticsurgery.in/blog/hair-transplant-cost-in-ahmedabad</loc>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
+	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1777886066.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/chest-fat-gynecomastia-treatment</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1773904814.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/top-10-plastic-surgeons-ahmedabad-dr-neel-gupta</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1773207420.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/breast-implant-surgery-explained</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1769509108.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/laser-hair-removal-guide-ahmedabad</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1767247533.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/Breast-Surgeon-in-Ahmedabad</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1765956017.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/gynecomastia-surgery-in-ahmedabad-what-local-patients-should-know</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1762945244.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/best-plastic-surgeon-ahmedabad-dr-neel-gupta</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1762595161.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/gynecomastia-surgery-facts-and-myths-explained</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1757065650.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/facts-and-myths-about-breast-implant-surgery</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1757065516.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/know-more-about-breast-reduction-surgery</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1757065326.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/breast-reduction-vs-breast-lift-which-procedure-is-right-for-you</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1757065143.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/how-safe-is-plastic-surgery-today-breaking-down-the-facts</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1757065054.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/thinking-about-plastic-surgery-key-considerations-before-going-under-the-knife</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1757064958.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/the-most-popular-plastic-surgery-procedures-in-2025</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1757064803.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/breast-reduction-surgery-a-complete-guide-to-procedure-benefits-and-recovery</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1757064717.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/plastic-surgery-for-men-popular-procedures-benefits</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1757064642.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/cost-of-laser-hair-removal-in-ahmedabad-a-complete-breakdown</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1757064574.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/preventative-botox-in-your-20s-is-it-worth-it-ng-plastic-surgery-botox-treatment-in-ahmedabad</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1757064485.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/best-exercises-for-gynecomastia-can-you-reduce-male-breasts-naturally</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1757064190.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/plastic-surgery-for-women-over-40-best-procedures-for-anti-aging</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1757064125.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/what-to-look-for-when-choosing-the-best-plastic-surgeon-in-ahmedabad</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1757064055.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/hair-transplant-in-ahmedabad-complete-procedure-guide</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1757063845.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/hair-transplant-recovery-timeline-week-by-week</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1757063776.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/top-5-clinics-for-laser-hair-removal-in-ahmedabad-cost-comparison</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1757063072.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/faqs-gynecomastia-surgery-ahmedabad</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1757056346.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 <url>
 	<loc>https://www.ngplasticsurgery.in/blog/how-many-grafts-do-you-need-understanding-hair-density-for-transplants</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
+	<lastmod>2026-10-12T14:46:50+01:00</lastmod>
 	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.ngplasticsurgery.in/blog/blog</loc>
-	<lastmod>2026-05-28T07:32:43+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.ngplasticsurgery.in/blog-details.php</loc>
-	<lastmod>2026-05-28T07:32:44+01:00</lastmod>
-	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/main-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1773276690.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1791007894.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1789383147.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1788256273.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1786012281.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/BlogImg/blog_1783687839.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/footer-logo.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/facebook.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/linkedin.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/instagram.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/twitter.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/pinterest.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://www.ngplasticsurgery.in/image/icon/youtube.png</image:loc>
+	</image:image>
 </url>
 </urlset>
