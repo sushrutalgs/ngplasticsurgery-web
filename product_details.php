@@ -268,7 +268,7 @@ include('header.php'); ?>
 </section>
 <?php } ?>
 <?php if(!empty($product_data['youtube_link'])){ ?>
-    <section>
+    <section class="ng-plas-youtube">
         <div class="container">
             <iframe 
                 width="100%" 
